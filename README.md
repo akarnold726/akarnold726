@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Andre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Andre.
+- 👀 I’m interested in gaming and outdoor activities
+- 🌱 I’m currently learning more about web development and futher use of c++ in gaming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at akarnold726@gmail.com
 
